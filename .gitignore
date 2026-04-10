@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+/nodes_modules/
+/public/
+/resources/
+.hugo_build.lock
